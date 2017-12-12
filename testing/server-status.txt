@@ -1,0 +1,26 @@
+ServerVersion: Apache/2.4.23 (Unix)
+ServerMPM: prefork
+Server Built: Aug  8 2016 16:31:34
+CurrentTime: Wednesday, 15-Feb-2017 13:59:47 EST
+RestartTime: Wednesday, 15-Feb-2017 13:39:55 EST
+ParentServerConfigGeneration: 1
+ParentServerMPMGeneration: 0
+ServerUptimeSeconds: 1192
+ServerUptime: 19 minutes 52 seconds
+Load1: 2.13
+Load5: 1.87
+Load15: 1.79
+Total Accesses: 49
+Total kBytes: 41
+CPUUser: 0
+CPUSystem: .02
+CPUChildrenUser: 0
+CPUChildrenSystem: 0
+CPULoad: .00167785
+Uptime: 1192
+ReqPerSec: .0411074
+BytesPerSec: 35.2215
+BytesPerReq: 856.816
+BusyWorkers: 1
+IdleWorkers: 1
+Scoreboard: _SRWKDCLGI............................................................................................................................................
